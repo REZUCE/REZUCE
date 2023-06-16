@@ -1,4 +1,4 @@
-<h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Robot&weight=900&size=30&duration=4500&pause=1000&color=FF0000&vCenter=true&width=435&lines=Vladimir+Lisicyn;Python+Developer" alt="Typing SVG" /></a></h1>
+<h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Robot&weight=900&size=30&duration=4500&pause=1000&color=FF0000&vCenter=true&width=435&lines=Vladimir+Lisicyn;Beginner+Python-Developer" alt="Typing SVG" /></a></h1>
 
 ### :man_technologist: Обо мне:
 - :seedling: **Я занимаюсь разработкой бэкенда и постоянно стремлюсь расширять свои знания и навыки в этой области. Меня увлекают современные технологии, которые изменяют мир и делают жизнь лучше. В настоящее время я активно изучаю Python и использую его для создания различных проектов.**
