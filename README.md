@@ -7,3 +7,10 @@
 - 📫: **Как связаться со мной:** <a href="https://t.me/lisicynV"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height=20></a>
 
 ---
+
+### 💻 Технологии:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,css,bootstrap,html,django,fastapi,git,docker,bash,postgres" />
+  </a>
+</p>
