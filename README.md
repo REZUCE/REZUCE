@@ -5,6 +5,6 @@
 ### 💻 Технологии:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,fastapi,django,bootstrap,html,css,git,docker,bash,postgres" />
+    <img src="https://skillicons.dev/icons?i=py,fastapi,htmx,django,bootstrap,html,css,git,docker,bash,postgres" />
   </a>
 </p>
